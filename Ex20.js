@@ -1,4 +1,4 @@
-let targetTexts = ['sons', 'sisters', 'fathers', 'families', 'daughters', 'brothers', 'mothers', 'children'];
+let targetTexts = ['sons', 'daughters','sisters','brothers','fathers','mothers','families','children'];
 
 // ตัวแปรเพื่อเก็บจำนวนที่พิมพ์ไปแล้ว
 let typedCount = 0;
